@@ -1,2 +1,2 @@
-#!/bin/bash
-python -m pip install psutil
+#!/bin/env zsh
+sudo -H python -m pip install psutil
